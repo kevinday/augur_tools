@@ -1,0 +1,26 @@
+{
+  "name": "kday_augur_scripts",
+  "version": "1.0.0",
+  "description": "Some useful scripts to keep around",
+  "main": "src/index.js",
+  "author": "Kevin Day <@k_day>",
+  "dependencies": {
+    "augur.js": "1.4.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinday/augur_tools.git"
+  },
+  "keywords": [],
+  "license": "AAL",
+  "bugs": {
+    "url": "https://github.com/AugurProject/augur.js/issues"
+  },
+  "homepage": "https://github.com/AugurProject/augur.js",
+  "devDependencies": {
+    "chai": "^3.2.0"
+  },  
+  "browser": {
+    "request": false
+  }
+}

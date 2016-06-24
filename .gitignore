@@ -1,0 +1,8 @@
+*.log
+npm-debug*
+*scratch*
+node_modules
+*.aux
+*.dat
+*.db
+.DS_Store
